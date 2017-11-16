@@ -1,4 +1,5 @@
 import FluentProvider
+import PostgreSQLProvider
 
 extension Config {
     public func setup() throws {
